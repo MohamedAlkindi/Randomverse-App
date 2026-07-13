@@ -1,9 +1,9 @@
-<!-- Amazing Bilingual Header -->
 <div align="center">
 
 # 🎲 Randomverse App
 
 ### ✨ Discover the Unexpected. Every Swipe is Random.
+
 ### ✨ اكتشف شيئًا غير متوقع. كل سحب يحمل تجربة جديدة.
 
 *A social experience built around randomness — where every post has a chance to be discovered.*
@@ -77,6 +77,65 @@ You can explore Randomverse and view content without creating an account or shar
 
 ---
 
+
+## 📸 Screenshots & Video
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="assets/en/screenhots/randomverse_screen.png" width="280">
+
+<br>
+
+<b>🎲 Randomverse Feed</b>
+
+</td>
+
+<td align="center">
+
+<img src="assets/en/screenhots/text_post.png" width="280">
+
+<br>
+
+<b>📝 Text Posts</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="assets/en/screenhots/profile_screen.png" width="280">
+
+<br>
+
+<b>👤 Profile Screen</b>
+
+</td>
+
+<td align="center">
+
+https://github.com/user-attachments/assets/5d11b533-4002-4526-8d78-1022e074b801
+
+<br>
+
+<b>⬆️ Upload Experience</b>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+---
+
 # 📥 Download Randomverse
 
 The first public release of **Randomverse** is now available! 🎉
@@ -93,12 +152,6 @@ You can download the latest version from the GitHub Releases page:
 2. Open the APK on your Android device.
 3. Allow installation from unknown sources if required.
 4. Enjoy Randomverse ❤️
-
----
-
-## 📸 Screenshots
-
-Coming soon...
 
 ---
 
@@ -120,11 +173,9 @@ Discover something unexpected. 🌌
 
 </details>
 
----
-
 <div dir="rtl">
 
-<h2 id="arabic">🇦🇪 العربية</h2>
+<h2 dir="rtl" id="arabic">🇦🇪 العربية </h2>
 
 <details>
 
@@ -134,7 +185,7 @@ Discover something unexpected. 🌌
 
 ## ✨ ما هو Randomverse؟
 
-تطبيق اجتماعي بسيط يركز على اكتشاف المحتوى بطريقة مختلفة.
+تطبيق اجتماعي يركز على اكتشاف المحتوى بطريقة مختلفة.
 
 بدلًا من الاعتماد على خوارزميات التوصية التي تحدد ما تراه، يمنحك Randomverse تجربة عشوائية حيث يمكن لأي منشور أن يصل إليك.
 
@@ -148,6 +199,7 @@ Discover something unexpected. 🌌
 - 🌍 اكتشاف محتوى من مستخدمين مختلفين.
 - 🚫 بدون الاعتماد على خوارزميات معقدة لتحديد ما تشاهده.
 - ✨ كل منشور لديه فرصة للوصول إلى أشخاص جدد.
+- 🔄 كل زيارة تحمل تجربة جديدة.
 
 ---
 
@@ -175,6 +227,64 @@ Discover something unexpected. 🌌
 يمكنك استخدام Randomverse واستكشاف المحتوى بدون الحاجة إلى إنشاء حساب أو مشاركة أي معلومات شخصية. ❤️
 
 ---
+## 📸 لقطات الشاشة والفيديو
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="assets/ar/screenshots/randomverse_screen.png" width="280">
+
+<br>
+
+<b>🎲 الصفحة الرئيسية</b>
+
+</td>
+
+<td align="center">
+
+<img src="assets/ar/screenshots/text_post.png" width="280">
+
+<br>
+
+<b>📝 المنشورات النصية</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="assets/ar/screenshots/profile_screen.png" width="280">
+
+<br>
+
+<b>👤 الملف الشخصي</b>
+
+</td>
+
+<td align="center">
+<video src="https://github.com/user-attachments/assets/59fc687f-28ce-4a2a-91f3-7d8405bd061c" width="220" controls></video>
+
+
+<br>
+
+<b>⬆️ تجربة رفع المنشورات</b>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
 
 # 📥 تحميل Randomverse
 
@@ -195,11 +305,13 @@ Discover something unexpected. 🌌
 
 ---
 
-## 📸 لقطات الشاشة
+## 🤝 التواصل
 
-قريبًا...
+لديك اقتراحات، ملاحظات، أو تريد التواصل؟
 
-نعمل حاليًا على تجهيز النسخة النهائية وتجربة المستخدم قبل توفير صور التطبيق.
+لا تتردد في التواصل:
+
+📧 bakirmohamedsami@gmail.com
 
 ---
 
