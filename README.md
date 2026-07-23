@@ -23,7 +23,7 @@
 
 <h1 id="english">🇺🇸 English</h1>
 
-<details open>
+<details>
 <summary><b>Click here to read in English</b></summary>
 
 <br>
@@ -161,7 +161,7 @@ Have feedback, suggestions, or want to collaborate?
 
 ## ✨ ما هو Randomverse؟
 
-Randomverse هو تجربة اجتماعية مبنية على فكرة بسيطة:
+هو تجربة اجتماعية مبنية على فكرة بسيطة:
 
 > *«كل منشور يستحق فرصة ليتم اكتشافه.»*
 
