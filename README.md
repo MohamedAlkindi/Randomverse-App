@@ -1,157 +1,136 @@
 <div align="center">
 
-# 🎲 Randomverse App
+# 🎲 Randomverse
 
-### ✨ Discover the Unexpected. Every Swipe is Random.
-
-### ✨ اكتشف شيئًا غير متوقع. كل سحب يحمل تجربة جديدة.
-
-*A social experience built around randomness — where every post has a chance to be discovered.*
-
-*تجربة اجتماعية مبنية على العشوائية — حيث لكل منشور فرصة للظهور والاكتشاف.*
+> *Social, without expectations.  
+> Every post deserves a chance to be discovered.*
 
 <br>
 
-<a href="#arabic">
-<img src="https://img.shields.io/badge/العربية-🇦🇪-green?style=for-the-badge" alt="Arabic">
+<a href="https://randomverse-social.vercel.app">
+  <img src="https://img.shields.io/badge/Try_Web_App-🌐-white?style=for-the-badge" alt="Web App">
 </a>
-
 <a href="#english">
-<img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge" alt="English">
+  <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge" alt="English">
+</a>
+<a href="#arabic">
+  <img src="https://img.shields.io/badge/العربية-🇦🇪-green?style=for-the-badge" alt="Arabic">
 </a>
 
 </div>
 
 ---
 
-<h2 id="english">🇺🇸 English</h2>
+<h1 id="english">🇺🇸 English</h1>
 
 <details open>
-
-<summary>Click Here to Show Details</summary>
+<summary><b>Click here to read in English</b></summary>
 
 <br>
 
 ## ✨ What is Randomverse?
 
-Randomverse is a social experience built around discovery and randomness.
+Randomverse is a social experience built around one simple idea:
 
-Unlike traditional social platforms that rely heavily on recommendation algorithms, Randomverse gives every post a chance to be discovered.
+> *«Every post deserves a chance to be discovered.»*
 
-Whether it is a photo, a video, or a simple thought, every post can reach someone new.
+Modern social platforms decide what you see using recommendation algorithms, popularity metrics, and engagement signals. **Randomverse takes a different approach.**
+
+Here, every swipe is an opportunity to discover something unexpected:
+* A photograph from another country.
+* A thought written by someone you've never met.
+* A video that would never have gone viral elsewhere.
+
+No pressure to chase followers or compete for visibility—just content waiting to be discovered. Available on the web and Android!
 
 ---
 
 ## 🌟 Why Randomverse?
 
-- 🎲 A different experience from traditional social platforms.
-- 🌍 Discover content from different users.
-- 🚫 Less dependence on recommendation algorithms.
-- ✨ Every post has a chance to be seen.
-- 🔄 Every visit can bring something new.
+* 🎲 **Unexpected:** Every swipe is random.
+* ✨ **Equal Opportunity:** Every post has a chance to be seen.
+* 🌍 **Global:** Discover content from people all around the world.
+* 🚫 **Algorithm-Free:** Discovery-driven over algorithm-driven.
+* 🔄 **Fresh:** No two browsing sessions feel the same.
+* ❤️ **Curiosity First:** Built around discovery, not popularity.
+
+---
+
+## 🌌 The Philosophy
+
+> **Social, without expectations.**
+> 
+> There are no expectations that your content needs to go viral. No expectations that you'll only see content that looks exactly like what you've already seen before.
+> 
+> *Simply open the app or website, swipe, and discover something new.*
 
 ---
 
 ## 🚀 Core Features
 
-- 🎲 Randomized post feed.
-- 📸 Share images.
-- 🎥 Share videos.
-- 📝 Share text posts.
-- 👤 Personal user profiles.
-- 🌙 Modern and smooth interface.
-- ⚡ Built with Flutter for a fast experience.
-- 🔐 Secure authentication system.
+- 🎲 **Random Feed:** Randomized post feed.
+- 📝 **Express Yourself:** Share text posts, images (📸), and videos (🎥).
+- 👤 **Profiles:** Personal user profiles & saved favorite posts (⭐).
+- 🏅 **Early Supporters:** Founder badges.
+- 🎨 **Theming:** Light/Dark modes with automatic system language & theme sync.
+- 🌐 **Cross-Platform:** Access seamlessly via Web browser or Android app.
+- 🚨 **Safety:** In-app reporting for inappropriate content.
+- 📱 **Smooth UX:** Built for an effortless user experience.
 
 ---
 
-## 🛡️ Your Privacy Matters!
+## 🛡️ Privacy Matters
 
-At **Randomverse**, your privacy is important to us.
+At Randomverse, your privacy comes first.
 
-The app does not collect or store any information about you unless you choose to participate, such as uploading a post or using profile features.
+You can explore Randomverse and discover content **without creating an account** or sharing any personal information. An account is only required if you choose to interact (post, save favorites, customize your profile).
 
-Any personal data you provide is only used to provide the features you requested and is not used for unnecessary purposes.
-
-You can explore Randomverse and view content without creating an account or sharing any personal information. ❤️
+Any data provided is strictly used to render requested app features and is **never** collected unnecessarily.
 
 ---
 
-
-## 📸 Screenshots & Video
+## 📸 Screenshots & Preview
 
 <div align="center">
-
 <table>
-<tr>
-
-<td align="center">
-
-<img src="assets/en/screenhots/randomverse_screen.png" width="280">
-
-<br>
-
-<b>🎲 Randomverse Feed</b>
-
-</td>
-
-<td align="center">
-
-<img src="assets/en/screenhots/text_post.png" width="280">
-
-<br>
-
-<b>📝 Text Posts</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="assets/en/screenhots/profile_screen.png" width="280">
-
-<br>
-
-<b>👤 Profile Screen</b>
-
-</td>
-
-<td align="center">
-
-https://github.com/user-attachments/assets/5d11b533-4002-4526-8d78-1022e074b801
-
-<br>
-
-<b>⬆️ Upload Experience</b>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/en/screenhots/randomverse_screen.png" width="280"><br><br>
+      <b>🎲 Random Discovery</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/en/screenhots/text_post.png" width="280"><br><br>
+      <b>📝 Share Your Thoughts</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/en/screenhots/profile_screen.png" width="280"><br><br>
+      <b>👤 Your Space</b>
+    </td>
+    <td align="center" width="50%">
+      <video src="https://github.com/user-attachments/assets/5d11b533-4002-4526-8d78-1022e074b801" width="220" controls></video><br><br>
+      <b>⬆️ Share With The World</b>
+    </td>
+  </tr>
 </table>
-
 </div>
----
-
-# 📥 Download Randomverse
-
-The first public release of **Randomverse** is now available! 🎉
-
-You can download the latest version from the GitHub Releases page:
-
-➡️ [Download Randomverse v1.0.0](https://github.com/MohamedAlkindi/Randomverse-App/releases/latest)
 
 ---
 
-## 🚀 Installation
+## 🌐 Try Randomverse
 
-1. Download the APK file from the release assets.
-2. Open the APK on your Android device.
-3. Allow installation from unknown sources if required.
-4. Enjoy Randomverse ❤️
+Experience Randomverse directly in your browser or download the mobile app!
+
+### 💻 Web App
+Try it instantly without installing anything:  
+👉 [**Launch Randomverse Web**](https://randomverse-social.vercel.app)
+
+### 📱 Android Installation
+1. Download the latest APK file from [**GitHub Releases**](https://github.com/MohamedAlkindi/Randomverse-App/releases/latest).
+2. Open the `.apk` file on your Android device.
+3. Allow installation from unknown sources if prompted.
+4. Enjoy Randomverse! ❤️
 
 ---
 
@@ -159,167 +138,144 @@ You can download the latest version from the GitHub Releases page:
 
 Have feedback, suggestions, or want to collaborate?
 
-Feel free to reach out:
-
-📧 bakirmohamedsami@gmail.com
+📧 **Email:** [randomverse.social.official@gmail.com](mailto:randomverse.social.official@gmail.com)
 
 ---
 
-## ❤️ Thank You
-
-Thank you for supporting Randomverse.
-
-Discover something unexpected. 🌌
+<blockquote align="center">
+  <i>Built with ❤️ and curiosity.<br>Randomverse was created to remind us that social media can still be about discovery.</i>
+</blockquote>
 
 </details>
 
+---
+
 <div dir="rtl">
 
-<h2 dir="rtl" id="arabic">🇦🇪 العربية </h2>
+<h1 id="arabic">🇦🇪 العربية</h1>
 
 <details>
-
-<summary>اضغط هنا لعرض العربية</summary>
+<summary><b>اضغط هنا لقراءة النسخة العربية</b></summary>
 
 <br>
 
 ## ✨ ما هو Randomverse؟
 
-تطبيق اجتماعي يركز على اكتشاف المحتوى بطريقة مختلفة.
+Randomverse هو تجربة اجتماعية مبنية على فكرة بسيطة:
 
-بدلًا من الاعتماد على خوارزميات التوصية التي تحدد ما تراه، يمنحك Randomverse تجربة عشوائية حيث يمكن لأي منشور أن يصل إليك.
+> *«كل منشور يستحق فرصة ليتم اكتشافه.»*
 
-سواء كانت صورة، فيديو، أو مجرد فكرة مكتوبة، كل منشور لديه فرصة للظهور والاكتشاف.
+في معظم منصات التواصل الاجتماعي، تقرر الخوارزميات ما الذي يجب أن تشاهده بناءً على اهتماماتك السابقة أو التفاعل. **أما في Randomverse، فالأمر مختلف.**
+
+كل سحب يحمل فرصة لاكتشاف شيء غير متوقع:
+* صورة من مكان لم تزره من قبل.
+* فكرة كتبها شخص من الطرف الآخر من العالم.
+* فيديو ربما لم يكن ليحصل على فرصة للظهور في أي مكان آخر.
+
+لا حاجة لمطاردة المشاهدات أو القلق بشأن مدى انتشار منشورك، فهنا لكل منشور فرصة حقيقية ليتم اكتشافه. متوفر عبر الويب وأجهزة أندرويد!
 
 ---
 
 ## 🌟 لماذا Randomverse؟
 
-- 🎲 تجربة مختلفة عن شبكات التواصل التقليدية.
-- 🌍 اكتشاف محتوى من مستخدمين مختلفين.
-- 🚫 بدون الاعتماد على خوارزميات معقدة لتحديد ما تشاهده.
-- ✨ كل منشور لديه فرصة للوصول إلى أشخاص جدد.
-- 🔄 كل زيارة تحمل تجربة جديدة.
+* 🎲 **غير متوقع:** كل سحب يحمل تجربة مختلفة.
+* ✨ **فرص متساوية:** لكل منشور فرصة حقيقية للظهور.
+* 🌍 **عالمي:** اكتشف محتوى من مستخدمين من مختلف أنحاء العالم.
+* 🚫 **بدون خوارزميات موجهة:** تركيز كامل على الاكتشاف الحر.
+* 🔄 **متجدد:** لا توجد زيارتان متشابهتان.
+* ❤️ **الفضول أولاً:** تجربة مبنية على الشغف لا الشعبية.
+
+---
+
+## 🌌 فلسفة Randomverse
+
+> **تجربة اجتماعية، بلا توقعات.**
+> 
+> لا تتوقع أن يصبح منشورك "ترند"، ولا تتوقع أن ترى نفس النوع من المحتوى في كل مرة.
+> 
+> *افتح موقع الويب أو التطبيق، اسحب، واكتشف شيئًا جديدًا.*
 
 ---
 
 ## 🚀 المميزات الرئيسية
 
-- 🎲 خلاصة منشورات عشوائية.
-- 📸 مشاركة الصور.
-- 🎥 مشاركة الفيديوهات.
-- 📝 مشاركة المنشورات النصية.
-- 👤 صفحات شخصية للمستخدمين.
-- 🌙 واجهة حديثة وسلسة.
-- ⚡ أداء سريع مبني باستخدام Flutter.
-- 🔐 نظام حسابات آمن.
+- 🎲 **خلاصة عشوائية:** تغذية منشورات عشوائية بالكامل.
+- 📝 **مشاركة المحتوى:** دعم النصوص، الصور (📸)، والفيديوهات (🎥).
+- 👤 **الملفات الشخصية:** إدارة حسابك والمفضلة (⭐).
+- 🏅 **شارة الداعمين:** شارات خاصة للمستخدمين الأوائل.
+- 🎨 **المظهر:** دعم الوضع الفاتح والداكن وتوافق تلقائي مع النظام.
+- 🌐 **متعدد المنصات:** استخدام سلس عبر متصفح الويب أو تطبيق أندرويد.
+- 🚨 **الأمان:** إمكانية الإبلاغ عن المحتوى المخالف.
+- 📱 **واجهة سلسة:** تجربة استخدام حديثة وسريعة.
 
 ---
 
 ## 🛡️ خصوصيتك مهمة!
 
-في **Randomverse** نحترم خصوصيتك.
+في Randomverse، خصوصيتك تأتي دائمًا في المقام الأول.
 
-لا يقوم التطبيق بجمع أو تخزين أي معلومات عنك إلا إذا اخترت المشاركة، مثل رفع منشور أو استخدام ميزات الملف الشخصي.
+يمكنك استكشاف المحتوى **دون الحاجة إلى إنشاء حساب** أو مشاركة بيانات شخصية. يلزم إنشاء الحساب فقط عند رغبتك بالمشاركة (النشر، التفضيل، تخصيص الملف).
 
-أي بيانات شخصية يتم توفيرها من قبلك تُستخدم فقط لتقديم الميزات التي طلبتها، ولا يتم استخدامها لأي أغراض غير ضرورية.
-
-يمكنك استخدام Randomverse واستكشاف المحتوى بدون الحاجة إلى إنشاء حساب أو مشاركة أي معلومات شخصية. ❤️
+أي معلومات تقدمها تُستخدم فقط لتوفير الميزات المطلوبة ولا يتم جمع أي بيانات إضافية دون حاجة.
 
 ---
+
 ## 📸 لقطات الشاشة والفيديو
 
 <div align="center">
-
 <table>
-<tr>
-
-<td align="center">
-
-<img src="assets/ar/screenshots/randomverse_screen.png" width="280">
-
-<br>
-
-<b>🎲 الصفحة الرئيسية</b>
-
-</td>
-
-<td align="center">
-
-<img src="assets/ar/screenshots/text_post.png" width="280">
-
-<br>
-
-<b>📝 المنشورات النصية</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="assets/ar/screenshots/profile_screen.png" width="280">
-
-<br>
-
-<b>👤 الملف الشخصي</b>
-
-</td>
-
-<td align="center">
-<video src="https://github.com/user-attachments/assets/59fc687f-28ce-4a2a-91f3-7d8405bd061c" width="220" controls></video>
-
-
-<br>
-
-<b>⬆️ تجربة رفع المنشورات</b>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/ar/screenshots/randomverse_screen.png" width="280"><br><br>
+      <b>🎲 اكتشف شيئًا غير متوقع</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/ar/screenshots/text_post.png" width="280"><br><br>
+      <b>📝 شارك أفكارك</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/ar/screenshots/profile_screen.png" width="280"><br><br>
+      <b>👤 مساحتك الخاصة</b>
+    </td>
+    <td align="center" width="50%">
+      <video src="https://github.com/user-attachments/assets/59fc687f-28ce-4a2a-91f3-7d8405bd061c" width="220" controls></video><br><br>
+      <b>⬆️ شارك مع العالم</b>
+    </td>
+  </tr>
 </table>
-
 </div>
 
 ---
 
-# 📥 تحميل Randomverse
+## 🌐 تجربة Randomverse
 
-أول إصدار رسمي من **Randomverse** متوفر الآن! 🎉
+يمكنك تجربة Randomverse مباشرة من متصفحك أو تحميل تطبيق الهاتف!
 
-يمكنك تحميل أحدث نسخة من صفحة الإصدارات على GitHub:
+### 💻 موقع الويب
+جربه فوراً دون الحاجة لتثبيت أي شيء:  
+👉 [**افتح موقع Randomverse**](https://randomverse-social.vercel.app)
 
-➡️ [تحميل Randomverse v1.0.0](https://github.com/MohamedAlkindi/Randomverse-App/releases/latest)
-
----
-
-## 🚀 التثبيت
-
-1. قم بتحميل ملف الـ APK من ملفات الإصدار.
-2. افتح ملف الـ APK على جهاز Android الخاص بك.
+### 📱 تثبيت تطبيق أندرويد
+1. قم بتحميل أحدث ملف APK من [**صفحة الإصدارات على GitHub**](https://github.com/MohamedAlkindi/Randomverse-App/releases/latest).
+2. افتح الملف على جهازك.
 3. اسمح بالتثبيت من مصادر غير معروفة إذا طُلب منك ذلك.
-4. استمتع باستخدام Randomverse ❤️
+4. استمتع بـ Randomverse! ❤️
 
 ---
 
 ## 🤝 التواصل
 
-لديك اقتراحات، ملاحظات، أو تريد التواصل؟
+لديك اقتراحات، ملاحظات، أو ترغب بالتعاون؟
 
-لا تتردد في التواصل:
-
-📧 bakirmohamedsami@gmail.com
+📧 **البريد الإلكتروني:** [randomverse.social.official@gmail.com](mailto:randomverse.social.official@gmail.com)
 
 ---
 
-## ❤️ شكرًا لكم
-
-شكرًا لدعمكم لـ Randomverse!
-
-اكتشف شيئًا غير متوقع. 🌌
+<blockquote align="center">
+  <i>بُني Randomverse بحب وفضول. ❤️<br>تم بناء التطبيق لإثبات أن منصات التواصل الاجتماعي لا تزال قادرة على أن تكون مساحة للاكتشاف الحقيقي.</i>
+</blockquote>
 
 </details>
 
